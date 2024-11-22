@@ -1,0 +1,57 @@
+name: kaila.wyman
+description: access
+version: 7.10.723
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: kailawyman
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:09:59'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:09:59'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:09:59.938487Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1072614225'
+  createdAt: '2024-11-22T23:09:59.938487Z'
+  type: plibMaven
+projectDependencies:
+  '336':
+    projectUID: 336
+    projectName: thu.stamm
+    repositoryPath: gitUri=http://gitserver:3000/dev_kANRAkmk_team_538/dev_kANRAkmk_project_336.git&subPath=
+    version: thu.stamm/0.44.284
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 23:09:57'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
